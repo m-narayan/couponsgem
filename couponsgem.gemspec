@@ -11,8 +11,8 @@
   
 # end
 Gem::Specification.new do |s|
-  s.name        = 'couponing'
-  s.version     = '0.0.8'
+  s.name        = 'couponsgem'
+  s.version     = '0.0.9'
   s.date        = '2013-03-15'
   s.summary     = "Insert Couponing summary"
   s.description = "Insert Couponing description."
